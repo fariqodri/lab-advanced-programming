@@ -1,4 +1,4 @@
-Name: Fari QOdri Andana
+Name: Fari Qodri Andana
 
 NPM: 1606875964
 
