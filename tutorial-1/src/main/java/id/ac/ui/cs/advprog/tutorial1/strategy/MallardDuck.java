@@ -4,8 +4,8 @@ public class MallardDuck extends Duck {
     // TODO Complete me!
 	public MallardDuck() {
 		// TODO Auto-generated constructor stub
-		quackBehavior = new Quack();
-		flyBehavior = new FlyWithWings();
+		this.setQuackBehavior(new Quack());
+		this.setFlyBehavior(new FlyWithWings());
 	}
 	
 	public void display(){}
