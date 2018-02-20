@@ -12,6 +12,7 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 
     public StatisticsDisplay(Observable observable) {
         // TODO Complete me!
+    	observable.addObserver(this);
     }
 
     @Override
@@ -24,6 +25,12 @@ public class StatisticsDisplay implements Observer, DisplayElement {
     public void update(Observable o, Object arg) {
         if (o instanceof WeatherData) {
             // TODO Complete me!
+        	WeatherData wd = (WeatherData) o;
+        	float temp = wd.getTemperature();
+        	this.tempSum+=temp;
+        	if(temp > this.maxTemp) this.maxTemp = temp;
+        	if(temp < this.minTemp) this.minTemp = temp;
+        	display();
         }
     }
 }
