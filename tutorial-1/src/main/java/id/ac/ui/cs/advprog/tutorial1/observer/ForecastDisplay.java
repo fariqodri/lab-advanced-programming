@@ -10,6 +10,7 @@ public class ForecastDisplay implements Observer, DisplayElement {
 
     public ForecastDisplay(Observable observable) {
         // TODO Complete me!
+    	observable.addObserver(this);
     }
 
     @Override
@@ -28,6 +29,10 @@ public class ForecastDisplay implements Observer, DisplayElement {
     public void update(Observable o, Object arg) {
         if (o instanceof WeatherData) {
             // TODO Complete me!
+        	WeatherData wd = (WeatherData) o;
+        	this.lastPressure = this.currentPressure;
+        	this.currentPressure = wd.getPressure();
+        	display();
         }
     }
 }
