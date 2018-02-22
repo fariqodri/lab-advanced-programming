@@ -13,10 +13,17 @@ public class LightOnCommand implements Command {
     @Override
     public void execute() {
         // TODO Complete me!
+    	this.light.on();
     }
 
     @Override
     public void undo() {
         // TODO Complete me!
+    	if(this.light.isLit()) {
+    		new LightOffCommand(this.light).execute();
+    	}
+    	else {
+    		this.execute();
+    	}
     }
 }

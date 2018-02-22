@@ -18,21 +18,23 @@ public class Light {
 
     public void on() {
         // TODO Complete me!
+    	this.lit = true;
         System.out.println(String.format(OUT_FMT, location, "on"));
     }
 
     public void off() {
         // TODO Complete me!
+    	this.lit = false;
         System.out.println(String.format(OUT_FMT, location, "off"));
     }
 
     public boolean isLit() {
         // TODO Complete me!
-        return false;
+        return this.lit;
     }
 
     public String getLocation() {
         // TODO Complete me!
-        return "";
+        return this.location;
     }
 }
