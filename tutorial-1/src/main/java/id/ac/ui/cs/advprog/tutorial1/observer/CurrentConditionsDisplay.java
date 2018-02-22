@@ -11,6 +11,8 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
 
     public CurrentConditionsDisplay(Observable observable) {
         // TODO Complete me!
+    	this.observable = observable;
+    	this.observable.addObserver(this);
     }
 
     @Override
@@ -23,6 +25,10 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
     public void update(Observable o, Object arg) {
         if (o instanceof WeatherData) {
             // TODO Complete me!
+        	WeatherData wd = (WeatherData) o;
+        	this.temperature = wd.getTemperature();
+        	this.humidity = wd.getHumidity();
+        	display();
         }
     }
 }
