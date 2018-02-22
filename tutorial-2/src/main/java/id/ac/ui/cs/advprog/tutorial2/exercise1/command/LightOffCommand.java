@@ -19,11 +19,6 @@ public class LightOffCommand implements Command {
     @Override
     public void undo() {
         // TODO Complete me!
-    	if(this.light.isLit()) {
-    		this.execute();
-    	}
-    	else {
-    		new LightOnCommand(this.light).execute();
-    	}
+    	this.light.on();
     }
 }

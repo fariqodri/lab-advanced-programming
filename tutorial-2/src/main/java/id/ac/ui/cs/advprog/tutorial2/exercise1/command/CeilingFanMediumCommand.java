@@ -11,5 +11,6 @@ public class CeilingFanMediumCommand extends CeilingFanCommand {
     @Override
     protected void operate() {
         // TODO Complete me!
+    	this.ceilingFan.medium();
     }
 }
