@@ -14,6 +14,8 @@ public abstract class CeilingFanCommand implements Command {
     @Override
     public void execute() {
         // TODO Complete me!
+        this.prevSpeed = this.ceilingFan.getSpeed();
+        this.operate();
     }
 
     protected abstract void operate();
