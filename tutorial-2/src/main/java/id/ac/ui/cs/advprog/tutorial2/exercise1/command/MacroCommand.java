@@ -15,9 +15,9 @@ public class MacroCommand implements Command {
     @Override
     public void execute() {
         // TODO Complete me!
-        for (Command c : commands) {
-            c.execute();
-        }
+        commands.stream().forEach((command) -> {
+            command.execute();
+        });
     }
 
     @Override
