@@ -177,8 +177,4 @@ Unless noted otherwise, BSD 3-Clause applies to source code (e.g. Java, YML,
 configuration files), while CC BY-SA 4.0 applies to text documents in this project.
 
 [1]: LICENSE
-[2]: https://creativecommons.org/licenses/by-sa/4.0/
-<<<<<<< HEAD
->>>>>>> b6b24aa50b2a319e6590d4a9a42bc7b79b02f705
-=======
->>>>>>> branch_1
+[2]: https://creativecommons.org/licenses/by-sa/4.0/1
