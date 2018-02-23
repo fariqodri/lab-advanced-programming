@@ -169,7 +169,7 @@ team (TAs & lecturers) that allowed to approve/reject a MR made by student.**
 
 # License
 
-Copyright (c) 2018, Faculty of Computer Science Universitas Indonesia
+Copyright (c) 2018, Faculty of Computer Science Universitas Indonesiaaa
 
 Permission to copy, modify, and share the works in this project are governed
 under two licenses: [BSD 3-Clause][1] and [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)][2]

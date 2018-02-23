@@ -209,7 +209,6 @@ modified to use Stream API
 
 ## My Notes
 
-> Feel free to use this section to write your own notes related to your attempt
-> in doing the tutorial. You can also use this section to write text for
-> answering question(s) mentioned in the task checklists.
-`
+> Pada template, terdapat super class CeilingFanCommand yang di extends oleh
+> masing-masing subclass seperti CeilingFanHighCommand dll.
+> Method undo() diletakkan pada CeilingFanCommand untuk mengurangi duplikasi kode
