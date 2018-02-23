@@ -209,6 +209,4 @@ modified to use Stream API
 
 ## My Notes
 
-> Pada template, terdapat super class CeilingFanCommand yang di extends oleh
-> masing-masing subclass seperti CeilingFanHighCommand dll.
-> Method undo() diletakkan pada CeilingFanCommand untuk mengurangi duplikasi kode
+Pada template, terdapat super class CeilingFanCommand yang di extends oleh masing-masing subclass seperti CeilingFanHighCommand dll. Method undo() diletakkan pada CeilingFanCommand untuk mengurangi duplikasi kode
