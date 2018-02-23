@@ -11,6 +11,6 @@ public class CeilingFanHighCommand extends CeilingFanCommand {
     @Override
     protected void operate() {
         // TODO Complete me!
-    	this.ceilingFan.high();
+        this.ceilingFan.high();
     }
 }

@@ -13,12 +13,12 @@ public class LightOnCommand implements Command {
     @Override
     public void execute() {
         // TODO Complete me!
-    	this.light.on();
+        this.light.on();
     }
 
     @Override
     public void undo() {
         // TODO Complete me!
-    	this.light.off();
+        this.light.off();
     }
 }

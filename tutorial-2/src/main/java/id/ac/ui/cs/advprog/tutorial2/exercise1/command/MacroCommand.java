@@ -15,16 +15,16 @@ public class MacroCommand implements Command {
     @Override
     public void execute() {
         // TODO Complete me!
-    	for (Command c : commands) {
-    		c.execute();
-    	}
+        for (Command c : commands) {
+            c.execute();
+        }
     }
 
     @Override
     public void undo() {
         // TODO Complete me!
-    	for(int i = commands.size() - 1; i >= 0; i--) {
-    	    commands.get(i).undo();
+        for (int i = commands.size() - 1; i >= 0; i--) {
+            commands.get(i).undo();
         }
     }
 }
