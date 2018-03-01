@@ -17,13 +17,20 @@ public class Company {
 
     public void addEmployee(Employees employees) {
         //TODO Implement
+        employeesList.add(employees);
     }
 
     public double getNetSalaries() {
         //TODO Implement
+        double res = 0;
+        for (Employees e : employeesList) {
+            res += e.getSalary();
+        }
+        return res;
     }
 
     public List<Employees> getAllEmployees() {
         //TODO Implement
+        return employeesList;
     }
 }
