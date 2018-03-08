@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\RemoteLoader.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\CeilingFanCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\CeilingFanHighCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\CeilingFanLowCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\CeilingFanMediumCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\CeilingFanOffCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\Command.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\LightOffCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\LightOnCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\MacroCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\command\NoCommand.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\invoker\RemoteControlWithUndo.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\invoker\SimpleRemoteControl.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\receiver\CeilingFan.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise1\receiver\Light.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise2\CaffeineBeverage.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise2\Coffee.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-2\src\main\java\id\ac\ui\cs\advprog\tutorial2\exercise2\Tea.java">
+</file>
+</checkstyle>

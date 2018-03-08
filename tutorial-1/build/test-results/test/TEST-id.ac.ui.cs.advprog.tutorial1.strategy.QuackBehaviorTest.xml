@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="id.ac.ui.cs.advprog.tutorial1.strategy.QuackBehaviorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-01T05:50:08" hostname="user" time="0.003">
+  <properties/>
+  <testcase name="testQuackBehaviorHasQuackAbstractMethod" classname="id.ac.ui.cs.advprog.tutorial1.strategy.QuackBehaviorTest" time="0.002"/>
+  <testcase name="testQuackBehaviorIsAPublicInterface" classname="id.ac.ui.cs.advprog.tutorial1.strategy.QuackBehaviorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
