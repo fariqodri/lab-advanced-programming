@@ -18,5 +18,15 @@ public class PizzaTestDrive {
 
         // TODO Complete me!
         // Create a new Pizza Store franchise at Depok
+        PizzaStore depokStore = new DepokPizzaStore();
+
+        Pizza pizza1 = depokStore.orderPizza("cheese");
+        System.out.println("Imron ordered a " + pizza1 + "\n");
+
+        pizza1 = depokStore.orderPizza("clam");
+        System.out.println("Imron ordered a " + pizza1 + "\n");
+
+        pizza1 = depokStore.orderPizza("veggie");
+        System.out.println("Imron ordered a " + pizza1 + "\n");
     }
 }
