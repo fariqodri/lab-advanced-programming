@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eddcce9-517c-4763-8d85-81bd8e671546" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/tutorial-4/tutorial-4_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/tutorial-4/tutorial-4_test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/CurrentConditionsDisplay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/DisplayElement.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/ForecastDisplay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/StatisticsDisplay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/WeatherData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/observer/WeatherStation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/Duck.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/FlyBehavior.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/FlyNoWay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/FlyRocketPowered.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/FlyWithWings.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/MallardDuck.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/MiniDuckSimulator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/ModelDuck.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/MuteQuack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/Quack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/QuackBehavior.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-1/build/classes/java/main/id/ac/ui/cs/advprog/tutorial1/strategy/Squeak.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/RemoteLoader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/CeilingFanCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/CeilingFanHighCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/CeilingFanLowCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/CeilingFanMediumCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/CeilingFanOffCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/Command.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/LightOffCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/LightOnCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/MacroCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/command/NoCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/invoker/RemoteControlWithUndo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/invoker/SimpleRemoteControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/receiver/CeilingFan.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise1/receiver/Light.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise2/CaffeineBeverage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise2/Coffee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/classes/java/main/id/ac/ui/cs/advprog/tutorial2/exercise2/Tea.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/reports/checkstyle/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-2/build/reports/checkstyle/main.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/cheese/BunCheese.java" afterPath="$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/cheese/BunCheese.java" />
-      <change beforePath="$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/clam/FreshClams.java" afterPath="$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/clam/FreshClams.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -125,8 +75,8 @@
       <file leaf-file-name="BunCheese.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/cheese/BunCheese.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1226,16 +1176,15 @@
       <option name="presentableId" value="Default" />
       <updated>1520579418694</updated>
       <workItem from="1520579422546" duration="1221000" />
-      <workItem from="1520581017123" duration="352000" />
+      <workItem from="1520581017123" duration="1025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1573000" />
+    <option name="totallyTimeSpent" value="2246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1331,8 +1280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial-4/src/main/java/id/ac/ui/cs/advprog/tutorial4/exercise1/factory/cheese/BunCheese.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
