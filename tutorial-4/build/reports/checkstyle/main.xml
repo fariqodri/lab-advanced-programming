@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\DepokPizzaStore.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\NewYorkPizzaStore.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\PizzaStore.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\PizzaTestDrive.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\DepokIngredientFactory.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\NewYorkPizzaIngredientFactory.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\PizzaIngredientFactory.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\cheese\BunCheese.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\cheese\Cheese.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\cheese\MozzarellaCheese.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\cheese\ParmesanCheese.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\cheese\ReggianoCheese.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\clam\Clams.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\clam\FreshClams.java">
+<error line="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\clam\FrozenClams.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\clam\SpoiledClams.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\dough\CrustyKrabDough.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\dough\Dough.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\dough\ThickCrustDough.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\dough\ThinCrustDough.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\sauce\MarinaraSauce.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\sauce\PlumTomatoSauce.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\sauce\Sauce.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\sauce\UnSauce.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\BlackOlives.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Eggplant.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Garlic.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Mushroom.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Onion.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\PondokCabe.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\RedPepper.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Spinach.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\veggies\Veggies.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\pizza\CheesePizza.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\pizza\ClamPizza.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\pizza\Pizza.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise1\pizza\VeggiePizza.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\main\java\id\ac\ui\cs\advprog\tutorial4\exercise2\Singleton.java">
+<error line="13" column="11" severity="warning" message="WhitespaceAround: &apos;if&apos; is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+</checkstyle>

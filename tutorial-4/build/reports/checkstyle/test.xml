@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\test\java\id\ac\ui\cs\advprog\tutorial4\exercise1\DepokPizzaStoreTest.java">
+<error line="5" severity="warning" message="Import statement for &apos;org.junit.jupiter.api.Assertions.*&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="5" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - org.junit.jupiter.api.Assertions.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\test\java\id\ac\ui\cs\advprog\tutorial4\exercise1\NewYorkPizzaStoreTest.java">
+<error line="5" severity="warning" message="Import statement for &apos;org.junit.jupiter.api.Assertions.*&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="5" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - org.junit.jupiter.api.Assertions.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\test\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\DepokIngredientFactoryTest.java">
+<error line="7" severity="warning" message="Wrong lexicographical order for &apos;java.util.Arrays&apos; import. Should be before &apos;org.junit.jupiter.api.Test&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Import statement for &apos;org.junit.jupiter.api.Assertions.*&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - org.junit.jupiter.api.Assertions.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="14" severity="warning" message="&apos;METHOD_DEF&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\test\java\id\ac\ui\cs\advprog\tutorial4\exercise1\factory\NewYorkPizzaIngredientFactoryTest.java">
+<error line="7" severity="warning" message="Wrong lexicographical order for &apos;java.util.Arrays&apos; import. Should be before &apos;org.junit.jupiter.api.Test&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Import statement for &apos;org.junit.jupiter.api.Assertions.*&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - org.junit.jupiter.api.Assertions.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="14" severity="warning" message="&apos;METHOD_DEF&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-4\src\test\java\id\ac\ui\cs\advprog\tutorial4\exercise2\SingletonTest.java">
+</file>
+</checkstyle>
