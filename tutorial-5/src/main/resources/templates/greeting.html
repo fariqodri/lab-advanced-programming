@@ -6,6 +6,9 @@
 </head>
 <body>
     <p th:text="${hello}"></p>
-    <p th:text="${info}"></p>
+    <div th:each="inf : ${info}">
+        <p th:text="${inf}"/>
+    </div>
+    <!--<p th:text="${info}"></p>-->
 </body>
 </html>
