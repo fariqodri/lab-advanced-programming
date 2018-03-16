@@ -17,19 +17,20 @@ public class GreetingController {
         } else {
             model.addAttribute("title", name + ", I hope you interested to hire me");
         }
-        String cv = "Name: Fari Qodri Andana\n";
-        cv += "Birthdate: 21 September 1999\n";
-        cv += "Birthplace: Jakarta\n";
-        cv += "Address: Kramat Jati\n";
-        cv += "\t---Education---\n";
-        cv += "Elementary School: SDI Muhammadiyah 2 Denpasar";
-        cv += "Junior High School: SMPN 8 Malang";
-        cv += "Senior High School: SMAN 8 Jakarta\n";
-        cv += "University: University of Indonesia\n";
-        cv += "---\tAbout Me---\n";
-        cv += "I like to code and have fun\n";
-        cv += "I am currently learning about Android\n";
-        model.addAttribute("info", cv);
+        StringBuilder cv = new StringBuilder();
+        cv.append("Name: Fari Qodri Andana\n");
+        cv.append("Birthdate: 21 September 1999\n");
+        cv.append("Birthplace: Jakarta\n");
+        cv.append("Address: Kramat Jati\n");
+        cv.append("\t---Education---\n");
+        cv.append("Elementary School: SDI Muhammadiyah 2 Denpasar");
+        cv.append("Junior High School: SMPN 8 Malang");
+        cv.append("Senior High School: SMAN 8 Jakarta\n");
+        cv.append("University: University of Indonesia\n");
+        cv.append("---\tAbout Me---\n");
+        cv.append("I like to code and have fun\n");
+        cv.append("I am currently learning about Android\n");
+        model.addAttribute("info", cv.toString());
         return "greeting";
     }
 }
