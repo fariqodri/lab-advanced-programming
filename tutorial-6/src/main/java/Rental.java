@@ -34,9 +34,4 @@ class Rental {
         }
         return thisAmount;
     }
-
-    public int addFrequentRenterPoints(int frequentRenterPoints) {
-        frequentRenterPoints++;
-        return frequentRenterPoints;
-    }
 }

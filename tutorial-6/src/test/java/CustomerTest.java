@@ -30,7 +30,6 @@ public class CustomerTest {
 
         String result = customer.statement();
         String[] lines = result.split("\n");
-        System.out.println(result);
         assertEquals(4, lines.length);
         assertTrue(result.contains("Amount owed is 3.5"));
         assertTrue(result.contains("1 frequent renter points"));
@@ -47,9 +46,8 @@ public class CustomerTest {
 
         String result = customer.statement();
         String[] lines = result.split("\n");
-        System.out.println(result);
         assertEquals(5, lines.length);
         assertTrue(result.contains("Amount owed is 7"));
-        assertTrue(result.contains("3 frequent renter points"));
+        assertTrue(result.contains("2 frequent renter points"));
     }
 }
