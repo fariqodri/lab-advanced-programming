@@ -34,4 +34,9 @@ class Rental {
         }
         return thisAmount;
     }
+
+    public int addFrequentRenterPoints(int freq) {
+        return ++freq;
+    }
+
 }
