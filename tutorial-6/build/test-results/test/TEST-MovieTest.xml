@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MovieTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-23T08:15:10" hostname="user" time="0.057">
+  <properties/>
+  <testcase name="getPriceCode" classname="MovieTest" time="0.011"/>
+  <testcase name="setPriceCode" classname="MovieTest" time="0.001"/>
+  <testcase name="setTitle" classname="MovieTest" time="0.004"/>
+  <testcase name="getTitle" classname="MovieTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
