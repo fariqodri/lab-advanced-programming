@@ -23,8 +23,8 @@ public class Applicant {
         return true;
     }
 
-    public static boolean evaluate(Applicant applicant, Evaluator evaluator) {
-        return evaluator.evaluate(applicant);
+    public static boolean evaluate(Applicant applicant, Predicate<Applicant> evaluator) {
+        return applicant.isCredible() && evaluator.test(applicant);
     }
 
     private static void printEvaluation(boolean result) {
@@ -43,20 +43,10 @@ public class Applicant {
 
         Predicate<Applicant> checkEmployment = applicant1 -> applicant1.getEmploymentYears() > 0;
 
-        evaluate(applicant, (Evaluator) checkCredit);
+        printEvaluation(evaluate(applicant, checkCredit));
+        printEvaluation(evaluate(applicant, checkCredit.and(checkEmployment)));
+        printEvaluation(evaluate(applicant, checkCriminal.and(checkEmployment)));
+        printEvaluation(evaluate(applicant, checkCriminal.and(checkCredit).and(checkEmployment)));
 
-        evaluate(applicant, (Evaluator) checkCriminal);
-
-        evaluate(applicant, (Evaluator) checkEmployment);
-//        printEvaluation(evaluate(applicant, new CreditEvaluator(new QualifiedEvaluator())));
-//        printEvaluation(evaluate(applicant,
-//                new CreditEvaluator(new EmploymentEvaluator(new QualifiedEvaluator()))));
-//        printEvaluation(evaluate(applicant,
-//                new CriminalRecordsEvaluator(
-//                        new EmploymentEvaluator(new QualifiedEvaluator()))));
-//        printEvaluation(evaluate(applicant,
-//                new CriminalRecordsEvaluator(
-//                        new CreditEvaluator(
-//                                new EmploymentEvaluator(new QualifiedEvaluator())))));
     }
 }

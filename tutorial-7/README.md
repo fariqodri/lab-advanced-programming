@@ -165,6 +165,17 @@ into functional style
 
 ## My Notes
 
-> Feel free to use this section to write your own notes related to your attempt
-> in doing the tutorial. You can also use this section to write text for
-> answering question(s) mentioned in the task checklists.
+Number of LOC(exclude comments and blank space) before and after refactoring :
+
+
+Java source code in applicant package. before = 128, after = 50
+
+PrimeChecker.java. before = 25, after = 11
+
+ScoreGrouping.java. before = 45, after = 20
+
+WordCount.java. before = 43, after = 21
+Penerapan functional programming dapat mengurangi LOC karena kita tidak perlu mennuliskan dan menguraikan flow dari sebuah perintah.
+
+
+Penggunaan fuctional programming membuat kita hanya perlu menuliskan 'apa yang ingin kita kerjakan' tanpa perlu menuliskan flow dan algoritmanya. Namun, saya belum terbiasa dengan penggunaan fuctional programming terutama dalam hal syntax dan method-method yang digunakan. Selain itu, penggunaan functional programming dapat mengurangi line of code.

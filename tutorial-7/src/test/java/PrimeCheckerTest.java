@@ -1,5 +1,5 @@
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
 
 import java.util.Arrays;
 import java.util.List;
@@ -17,9 +17,7 @@ public class PrimeCheckerTest {
 
     @Test
     public void testIsPrimeFalseGivenNonPrimeNumbers() {
-        fail("TODO Implement me!");
-        // Given non-prime numbers
-        // When isPrime is invoked
-        // It should return false
+        final List<Integer> NON_PRIME_NUMBERS = Arrays.asList(4, 6, 8, 9);
+        NON_PRIME_NUMBERS.forEach(number -> assertFalse(PrimeChecker.isPrime(number)));
     }
 }

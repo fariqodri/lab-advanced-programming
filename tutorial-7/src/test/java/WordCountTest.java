@@ -30,7 +30,7 @@ public class WordCountTest {
 
     @Test
     public void testExistingSubstringShouldCountedCorrectly() throws Exception {
-        fail("TODO Implement me!");
+        assertEquals(3, WordCount.countLines("lor", testFixtureFile));
         // Given a substring that occurred 3 times (i.e. 'lor') in test fixture
         // When countLines is invoked
         // It should return 3
@@ -38,7 +38,7 @@ public class WordCountTest {
 
     @Test
     public void testNonExistingWordsShouldCountedCorrectly() throws Exception {
-        fail("TODO Implement me!");
+        assertEquals(0, WordCount.countLines("vivafasilkom", testFixtureFile));
         // Given a word that is not present in test fixture
         // When countLines is invoked
         // It should return 0
