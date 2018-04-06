@@ -6,7 +6,8 @@ import java.util.stream.LongStream;
 public class PrimeChecker {
 
     public static boolean isPrime(int number) {
-        return number > 1 && LongStream.range(2, number).noneMatch(divisor -> number % divisor == 0);
+        return number > 1 && LongStream.range(2, number).
+                noneMatch(divisor -> number % divisor == 0);
     }
 
     public static void main(String[] args) {

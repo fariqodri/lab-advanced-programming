@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-7\src\main\java\PrimeChecker.java">
+<error line="9" column="57" severity="warning" message="&apos;.&apos; should be on a new line." source="SeparatorWrapDot"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-7\src\main\java\ScoreGrouping.java">
+<error line="5" severity="warning" message="Import statement for &apos;java.util.stream.Collectors.groupingBy&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-7\src\main\java\WordCount.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-7\src\main\java\applicant\Applicant.java">
+</file>
+</checkstyle>

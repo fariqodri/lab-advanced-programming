@@ -1,11 +1,12 @@
 package applicant;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
 
 public class ApplicantTest {
     // TODO Implement me!
@@ -45,6 +46,7 @@ public class ApplicantTest {
 
     @Test
     void evaluateEmployment() {
-        assertTrue(Applicant.evaluate(applicant, applicant1 -> applicant1.getEmploymentYears() > 0));
+        assertTrue(Applicant.evaluate(applicant,
+            applicant1 -> applicant1.getEmploymentYears() > 0));
     }
 }

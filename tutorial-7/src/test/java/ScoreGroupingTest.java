@@ -1,9 +1,9 @@
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 import java.util.HashMap;
 import java.util.Map;
+import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
 
 public class ScoreGroupingTest {
     // TODO Implement me!
@@ -20,6 +20,7 @@ public class ScoreGroupingTest {
         scores.put("E", 10);
         scores.put("F", 10);
 
-        assertEquals("{10=[E, F], 11=[C, D], 12=[A, B]}", ScoreGrouping.groupByScores(scores).toString());
+        assertEquals("{10=[E, F], 11=[C, D], 12=[A, B]}",
+                ScoreGrouping.groupByScores(scores).toString());
     }
 }

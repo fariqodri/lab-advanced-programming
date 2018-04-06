@@ -17,7 +17,7 @@ public class PrimeCheckerTest {
 
     @Test
     public void testIsPrimeFalseGivenNonPrimeNumbers() {
-        final List<Integer> NON_PRIME_NUMBERS = Arrays.asList(4, 6, 8, 9);
-        NON_PRIME_NUMBERS.forEach(number -> assertFalse(PrimeChecker.isPrime(number)));
+        final List<Integer> NOprimenumbers = Arrays.asList(4, 6, 8, 9);
+        NOprimenumbers.forEach(number -> assertFalse(PrimeChecker.isPrime(number)));
     }
 }
