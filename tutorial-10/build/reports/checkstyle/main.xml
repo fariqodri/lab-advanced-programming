@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\matrix\InvalidMatrixSizeForMultiplicationException.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\matrix\Main.java">
+<error line="22" severity="warning" message="Line is longer than 100 characters (found 107)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="23" severity="warning" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="44" severity="warning" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\matrix\MatrixOperation.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\matrix\StrassensAlgorithm.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\sorting\Finder.java">
+<error line="28" column="5" severity="warning" message="Line contains a tab character." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\sorting\Main.java">
+</file>
+<file name="D:\Fari\Kuliah Thingy\Adpro\Adpro\AdvancedProgramming\tutorial-10\src\main\java\sorting\Sorter.java">
+</file>
+</checkstyle>

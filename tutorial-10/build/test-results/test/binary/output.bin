@@ -1,0 +1,9 @@
+$Benchmark Report : Basic Operation
+Warmup Iterations : 100 times
+!Testing iterations : 1000 times
+$Average execution time : 704098 ns
+
+'Benchmark Report : Strassen Operation
+Warmup Iterations : 100 times
+!Testing iterations : 1000 times
+'Average execution time : 140442304 ns
