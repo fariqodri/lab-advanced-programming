@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="matrix.MatrixMultiplicationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-28T10:11:47" hostname="user" time="155.947">
+  <properties/>
+  <testcase name="checkMainMethodWorksProperly" classname="matrix.MatrixMultiplicationTest" time="0.453"/>
+  <testcase name="illegalMultiplicationTest" classname="matrix.MatrixMultiplicationTest" time="0.004"/>
+  <testcase name="benchmarkTest" classname="matrix.MatrixMultiplicationTest" time="155.489"/>
+  <system-out><![CDATA[Benchmark Report : Basic Operation
+Warmup Iterations : 100 times
+Testing iterations : 1000 times
+Average execution time : 704098 ns
+
+Benchmark Report : Strassen Operation
+Warmup Iterations : 100 times
+Testing iterations : 1000 times
+Average execution time : 140442304 ns
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
